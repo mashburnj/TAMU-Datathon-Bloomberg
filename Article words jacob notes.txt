@@ -1,0 +1,206 @@
+The challenge articles' 5 nearest neighbors according to the KNN algorithm:
+
+1	[[ 67 530 657 428 673 329 146 465]
+2	 [133 542 105 496 124 499 388 431]
+3	 [ 64  75  29 339  69 304  38 343]
+4	 [659 480  89 223 567 314 380 714]
+5	 [705 419 446 274 511 213 411  74]
+Bonus	 [144  35 286 261 469 578 126 589]]
+
+
+
+
+
+Each of those nearest neighbor's most frequent words:
+
+
+1. An article on travel/tourism?
+
+             0            1         2         3       4            5   \
+67        dates        valid      2014    travel   cyber         book   			cyber week travel deals?????????
+146     hornets       humans    forage    hornet    food         wild   			opinion: it's not hornets invading, it's humans. Asian giant hornets moce into cities in China, Japan, Taiwan, Korea, etc,
+													"around this time" every year.
+329     ukraine       rooney   england    sweden   cross         shot   			Headline: "Rooney sends England through with France". (talking about their win in the Euro 2012 soccer league)
+428     airport       ciudad   spanish      land    real       sounds   			(no idea)
+465  paralympic  paralympics     medal      100m  london     mcfadden   			Opinion: paralympics brilliant, but why weren't you watching? (London 2012)
+530       space     training  garriott    flight     air        mouth   			Richard Garriott says "Training for civilian space travel is no picnic"
+657      rahman         film     music  composer  indian      singing   			"The Mozart of Madras: Composer A.R. Rahman" works in the Indian film industry and Holywood. Article takes place in London, because
+													it opens with a description of a performance of a musical of "The Lord of the Rings" in West End, which he composed.
+673    legoland         park     water  malaysia    lego  attractions   			Legoland water park opens in Malaysia. talks about tourism on the rise.
+
+            6          7            8           9              10          11  
+67    blackout   december     offering       hotel          rates        deal  
+146     larvae      asian       insect       giant        insects      stings  
+329     france       hart      larsson       hosts  spectacularly     minutes  
+428  almodovar    ryanair       runway      bubble          perez    property  
+465   athletes   coverage       sprint  wheelchair         sports  disability  
+530     meters  preparing  acclimatize  adventures             gs  procedures  
+657     melody      movie    explained       theme      hollywood     jamming  
+673      theme     bricks         raft      slides          hotel      resort  
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. no clue. wholesome stuff + coffee + bailout/purchase = ???
+
+              0          1        2             3           4            5   \
+105  mcconaughey      alves    maybe        camila     planner  wonderfully   		Mcconaughey marries Alves (2012)
+124      hortons       cups      tim        coffee         ctv     edmonton   		wholesome, customers at coffee shop paying it forward
+133(top)    bank        oct  billion          sept   announces           uk   		buying UK government debt to halt a bond market crash
+388       samuel      moshe     baby        chabad       nanny        rabbi   		Nanny escaped Mumbai with 2 year old after attack on India's financial capital.
+431      letters   brencher     love  organization     writing       letter   		woman sends love letters to strangers
+496     protests  financial   police        sector     protest     thursday   		occupy wall street
+499        lindt     tanner    franc     chocolate       brand      markets   		Lindt (swiss chocolate maker) expanding into US/China/Russia. Company struggling due to strong franc and eurozone crisis (2012)
+542      dempsey      tully   coffee       seattle  bankruptcy    locations   		Grey's Anatomy's Demsey wants to buy Seattle-based Tully's Coffee, which had filed for bankruptcy.
+
+          6              7          8          9           10           11  
+105     knot            wed   intimate   longtime      austin    brazilian  
+124  alberta            500   hospital    coffees   kavanaugh    robichaud  
+133   losses        quarter      banks   deposits    wachovia    citigroup  
+388   israel      holtzberg    heroism      siege      sandra  unconscious  
+431    write  encouragement  deserving  nominated      people         find  
+496     city  demonstrators   zuccotti     batons  protesters         wall  
+499  billion       currency      swiss   emerging       sales      company  
+542     save          group       jobs     geurts       hunky     mcdreamy  
+
+
+
+
+
+
+
+
+3. An article written during/about the COVID-19 pandemic.
+
+             0             1            2         3            4   \
+29   restaurant      measures      quintas      h1n1         soya   			
+38   meningitis     princeton      vaccine       cdc     bacteria   			
+64(top)   leone        sierra   seychelles     ebola        match   			
+69       dengue         fever          cdc  mosquito  hemorrhagic   			
+75        saudi        arabia         hajj    health     khordany   			
+304     disease  legionnaires        hotel   chicago       guests   			
+339       polio      pakistan  vaccination      bara       khyber   			
+343      dengue         fever        cases   florida   mosquitoes   			
+
+              5           6           7         8             9           10  \
+29   restaurants        silk   customers     virus         staff         gel   
+38      students  university   bacterial    school   dormitories  conditions   
+64         virus      health      chetty   forfeit         cases   prevented   
+69        health    ministry     janeiro      said     brazilian        khan   
+75       rabeeah    pilgrims  pilgrimage       flu    guidelines          el   
+304          tub    fountain    marriott       flu         cases    symptoms   
+339     campaign      tribal   kidnapped   aylward         cases      school   
+343       health    acquired   officials  declares  organization        dade   
+
+                11  
+29         waiters  
+38        graduate  
+64     immigration  
+69             rio  
+75   participating  
+304           pool  
+339        endemic  
+343          falco  
+
+
+
+
+
+
+
+4. My best guess involves attempts to resolve conflict between a united body (say the UN) and another group????
+												
+              0        1           2            3           4         5   \
+89         north    korea     council       rights       human    korean   		North Korea blasts UN over report on human rights
+223       afghan   parwan   agreement    detainees      bagram  facility   		US agrees to turn over an Afghan prison that was a "sticking point"
+314  afghanistan  british  helicopter  helicopters       brown    troops   		British PM Gordon Brown (2013) defended the UK's involvement in Afghanistan following the British Army's bloodiest day of the conflict.
+380       vahidi   jewish     morales         daia     bolivia   iranian   		Bolivian president apologizes for hosting Iranian defense minister. The Iranian minister, Ahmad Vahidi, is wanted in Argentina for his
+												alleged role in planning the bombing of a Jewish community center in Buenos Aires
+480(s)      farc   santos   colombian       rebels  government     talks   		Columbian president says govt, rebels in talks. Wants to end 50 year conflict with FARC, Latin America's oldest insurgency.
+567        tombs     mali    timbuktu        ansar        dine   shrines   		Militant Islamist groups destroy shrines in Mali
+659(t)  flotilla    greek     israeli   hirschmann    klusmire     boats   		Greeks arrest captain of US ship "The Audacity of Hope" en route to Gaza to protest Israel's blockade.
+714      ugandan   libyan      guards       mosque     gadhafi    uganda   		Fight between Ugandan and Libyan presidential guards sparked chaos during a ceremony attended by the heads of state from 11 African nations.
+
+            6            7             8               9            10  \
+89      abuses      inquiry      darusman  disappearances   commission   
+223  detention  afghanistan  negotiations            base       troops   
+314        war     capacity   involvement       ainsworth       forces   
+380   bolivian    holocaust     argentina         mistake    president   
+480    isacson      sources      colombia            said  exploratory   
+567  islamists     islamist      militant       militants        mayor   
+659  activists   passengers          ship            crew         gaza   
+714       amin     museveni       kampala        dictator        fight   
+
+              11  
+89    systematic  
+223  partnership  
+314       cannot  
+380    community  
+480        group  
+567         area  
+659      boarded  
+714       pushed  
+
+
+
+
+
+
+5. Long-term consequences of climate change, maybe what we can do about it now.
+											
+            0           1             2           3           4          5   \
+74     decrees  indigenous          peru      garcia  government       gass   		peru's indigenous win victory over lands
+213       edel        farm         plant       waste       loops       food   		old meatpacking plant turns into zero-waste vertical farm in Chicago's south side
+274      power       sandy        jersey        lipa         new  residents   		Hurricane Sandy, tens of thousands without power
+411     zwally         ice     greenland    glaciers        nasa        sea   		Ice melting across globe at accelerating rate
+419  butterfly    woodland  conservation  fritillary     species     warren   		rare butterfly comeback
+446      flood       river      missouri   armstrong        feet      corps   		Missouri river flooding, North Dakotans rush to fill sandbags to prepare. Most destructive flood by the Missouri ever.
+511     domjan      carbon        global    scenario       kyoto  scenarios   		Author compares global warming to a house fire the world is failing to contain.
+705   wildfire    michigan         miles          97  structures      blaze   		Raging wildfire in Michigan's upper peninsula.
+
+               6           7        8             9          10        11  
+74           laws       lands    simon        zapata  blockades   logging  
+213          fish  hydroponic    urban       produce     plants      zero  
+274       utility        dark   island    superstorm       york  christie  
+411      gigatons     luthcke   global        arctic   changing   warming  
+419    landowners    clearing    heath        forest   colonies    profit  
+446      bismarck        1952   dakota      flooding      cubic      dams  
+511        change     degrees  climate  temperatures       fire      2100  
+705  firefighters        fire     lake   campgrounds  firelines     motel  
+
+
+
+
+
+
+
+Bonus: no idea...
+
+           0         1             2            3             4         5   \
+35       mets   stadium        piazza         york        giants    inning   		baseball game after 9/11
+126  tenerife     mills       westley  supermarket       council  shopping   		woman beheaded in supermarket
+144(t) syrian     syria    moadamiyeh   opposition  humanitarian      said   		
+261   lincoln  memorial  inauguration        obama    washington     bible   		obama's 2nd inaguration
+286    syrian     syria       syrians      lebanon        turkey    friday   		Syria, ISIS
+469    status     power         study    demeaning         roles      fast   		study: power w/out status can lead to rudeness/abuse
+578  xinjiang   uyghurs       chinese       police   authorities    uyghur   		Uyghur genocide in China
+589    syrian     daraa         avaaz     damascus    protesters    banias   		
+
+           6           7            8          9              10          11  
+35      zeile        game       braves     franco          going         new  
+126   british     retired       canary     murphy       daughter  identified  
+144    aleppo        amos    civilians  outskirts           sana        homs  		
+261     elect      family      visited      train          steps   president  
+286  activist    mourners     security     forces  demonstrators  procession  
+469       low  management  researchers      times           bark      filthy  
+578       han      people       region   violence          clash      unrest  
+589   shaghri        city        syria       said       protests     amnesty  

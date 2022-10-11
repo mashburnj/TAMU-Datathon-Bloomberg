@@ -188,19 +188,23 @@ Bonus: no idea...
            0         1             2            3             4         5   \
 35       mets   stadium        piazza         york        giants    inning   		baseball game after 9/11
 126  tenerife     mills       westley  supermarket       council  shopping   		woman beheaded in supermarket
-144(t) syrian     syria    moadamiyeh   opposition  humanitarian      said   		
+144(t) syrian     syria    moadamiyeh   opposition  humanitarian      said   		37 killed in Syrian car bombing as fighting rages nearby
+258     shell     ivory        gbagbo        coast       abidjan  violence 		Women/children casualties in Ivory Coast. Heavy shelling in the Abobo nbhd of Abidjan was responsible.
 261   lincoln  memorial  inauguration        obama    washington     bible   		obama's 2nd inaguration
 286    syrian     syria       syrians      lebanon        turkey    friday   		Syria, ISIS
+455   sherpao  pakistan        mosque        blast     musharraf    attack 		At least 50 dead in mosque bomb in Pakistan
 469    status     power         study    demeaning         roles      fast   		study: power w/out status can lead to rudeness/abuse
 578  xinjiang   uyghurs       chinese       police   authorities    uyghur   		Uyghur genocide in China
-589    syrian     daraa         avaaz     damascus    protesters    banias   		
-
+589    syrian     daraa         avaaz     damascus    protesters    banias   		State TV says Syrian military starts to leave Daraa. Citizen protesters are posted at checkpoints
+													leading into Banias in an effort to keep the Syrian military out of the city.
            6           7            8          9              10          11  
 35      zeile        game       braves     franco          going         new  
 126   british     retired       canary     murphy       daughter  identified  
-144    aleppo        amos    civilians  outskirts           sana        homs  		
+144    aleppo        amos    civilians  outskirts           sana        homs  
+258     abobo        baby   eyewitness   shelling         crisis    reported 
 261     elect      family      visited      train          steps   president  
 286  activist    mourners     security     forces  demonstrators  procession  
+455  peshawar   elections      suicide  militants      political      bomber  
 469       low  management  researchers      times           bark      filthy  
 578       han      people       region   violence          clash      unrest  
 589   shaghri        city        syria       said       protests     amnesty  
